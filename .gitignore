@@ -1,0 +1,5 @@
+token.txt
+.vs/**
+**/packages/**
+**/bin/**
+**/obj/**
